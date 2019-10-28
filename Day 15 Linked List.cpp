@@ -1,7 +1,8 @@
- Node* new_node;
-+          new_node = new Node(data);
+ Node* ptr,head;
+int data;
++          ptr = new Node;
 +          if (head == NULL){
-+              head = new_node;
++              head = ptr;
 +          }
 +          else {
 +              Node* temp;
@@ -9,7 +10,7 @@
 +              while (temp->next!=NULL){
 +                  temp = temp->next;
 +              }
-+              temp->next = new_node;
++              temp->next = ptr;
 +          }
 +
 +          return head;
