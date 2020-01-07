@@ -6,6 +6,5 @@ int main(){
     printf("Hello, World.\n");
     printf("%s", input_string);
     return 0;
-
 }
 
