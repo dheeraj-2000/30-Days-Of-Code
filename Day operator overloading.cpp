@@ -1,8 +1,7 @@
 #include<iostream>
 using namespace std;
 
-class complex
-{
+class complex{
 private:
 	int real;
 	int img;
@@ -18,12 +17,10 @@ public:
 	}
 	friend complex operator+(complex const&,complex const&);
 };
-complex operator+(complex const&c1,complex const&c2)
-{
+complex operator+(complex const&c1,complex const&c2){
 	return complex(c1.real+c2.real,c1.img+c2.img);
 }
-int main()
-{
+int main(){
 	complex c1(10,5),c2(2,4);
 	complex c3=c1+c2;
 	c3.print();
