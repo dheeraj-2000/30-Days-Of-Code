@@ -2,7 +2,6 @@
 #include <vector>
 
 using namespace std;
-
 int main() {
     int n;
     cin >> n;
@@ -27,6 +26,5 @@ int main() {
     printf("Array is sorted in %i swaps.\n", numSwaps);
     printf("First Element: %i\n", arr[0]);
     printf("Last Element: %i\n", arr[arr.size() - 1]);
-
     return 0;
 }
