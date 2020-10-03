@@ -1,19 +1,30 @@
-# 30-Days-Of-Code
+# Update: Please read this before moving ahead [Important](https://github.com/dheeraj-2000/dsalgo/issues/43)!
+
+## 30-Days-Of-Code
 This File Contains all solutions of: Hackerrank 30 day of code along with other Algorithms
-# Contributing
 
 ## How to contribute ?
-* Have a look at open issues, they contain the list of algorithms/DS we plan to be implemented.
-* You can also create a new issue for an algorithm that is not in the list.
+* Have a look at open issues
+* You can also create a new issue for an algorithm/code that has been used to solve problem in any of the 30-days (you can also add variants of any code/logic).
 * Fork the repository.
 * Clone the repo. to your local system.
-* Add the algorithms/codes that you want to contribute (and properly rename you algorithm/code, also if possible keep in the respective folder)
+* Add the algorithms/codes that you want to contribute (and properly rename you algorithm/code with the Particular day, and keep the code in a folder with all variants and algorithm used to solve)
 * Make another Development branch. (Apart from main branch).
 * Open the pull request.
 * Resolve conflicts ( if any ).
 * Wait for the pull request to be approved.
 
-**Feel free to contact, if you face any issue in Open Source Contribution** 
+## Code I expect (for everyone):
+
+-   Add relevant comments explaining what the code is all about (if possible write the Time and Space complexities)
+-   It should be properly formatted and indented
+-   Please use proper naming for variables, do not use i,j,k,x,y,z. The variable name should be self explanatory.
+-   Use proper names for your files.
+-   **Do all your changes in your forked repository branch and not in master branch untill asked.**
+-   **I will reject any pull request which looks like spammy or just to have +1 in the counter, so contribute quality code here!**
+-   As per guidlines of Hacktoberfest, I will not merge any **plagrised** code or any type of **fishy** code.
+
+**Feel free to contact, if you face any issue in contributing to Open Source** 
 
 <div align="center">
 
