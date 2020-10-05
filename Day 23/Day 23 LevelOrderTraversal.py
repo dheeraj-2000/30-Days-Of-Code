@@ -8,7 +8,6 @@ Steps
     1. For every node, add to a queue.
     2. Process the node and pop from the front of the queue.
     3. Add its left and right child to the queue.
-    4. Time complexity is O(n), Space complexity is also O(n) where n is the total number of nodes.
 
 Time complexity  is O(N) since we visit every node at least once. N is the number of nodes in the tree.
 Space complexity is O(N) since we make use of a queue data structure having a maximum of size N. 
