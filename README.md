@@ -1,7 +1,8 @@
 # Update: Please read this before moving ahead [Important](https://github.com/dheeraj-2000/dsalgo/issues/43)!
 
 ## 30-Days-Of-Code
-This File Contains all solutions of: Hackerrank 30 day of code along with other Algorithms
+This File Contains all solutions of: Hackerrank 30 day of code along with other Algorithms 
+<br> <br> **( _Not your match? [CHECKOUT THIS REPO](https://github.com/dheeraj-2000/dsalgo/blob/master/README.md) to contribute other/more algorithms_ )**
 
 ## How to contribute ?
 * Have a look at open issues
