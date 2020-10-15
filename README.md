@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/nehanagle/30-Days-Of-Code.svg)](http://hits.dwyl.com/nehanagle/30-Days-Of-Code)
+
 # Update: Please read this before moving ahead [Important](https://github.com/dheeraj-2000/dsalgo/issues/43)!
 
 ## 30-Days-Of-Code
