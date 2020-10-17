@@ -27,3 +27,6 @@ if __name__ == '__main__':
             if lsum>lmax:
                 lmax = lsum
     print(lmax)
+
+    # Time complexuty: O(n^4) Because the nested for loops use 4 loops
+    # Space complexity: O(n^2) Because the size of our input array is always constant that is 6*6. n = 6 here.
