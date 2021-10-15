@@ -1,0 +1,34 @@
+// Day 5 Solution using Java 
+// contributed by tokyo-arch
+// link for question : https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true
+
+
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.function.*;
+import java.util.regex.*;
+import java.util.stream.*;
+import static java.util.stream.Collectors.joining;
+import static java.util.stream.Collectors.toList;
+
+
+
+public class Solution {
+    public static void main(String[] args) throws IOException {
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+
+        int n = Integer.parseInt(bufferedReader.readLine().trim());
+
+        bufferedReader.close();
+        
+        for (int i=1; i<=10; i++){
+            System.out.println(n+" x " + i + " = "+n*i );
+        }
+    }
+}
+// Time Complexity
+// As for loop is running for 10 times for every number (n) so time complexity = O(10).
